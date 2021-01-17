@@ -1,10 +1,10 @@
 <!--
- * @Description: vscode自带注释
+ * @Description: vue2 + element ui + es6 + vuex 项目架子
  * @Version: 2.0
  * @Autor: lhl
  * @Date: 2020-10-20 22:04:24
  * @LastEditors: lhl
- * @LastEditTime: 2021-01-17 20:50:11
+ * @LastEditTime: 2021-01-17 20:54:53
 -->
 # vue2-admin-element
 
